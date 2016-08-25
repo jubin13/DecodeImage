@@ -2,7 +2,6 @@
 # Open terminal and type pip install numpy
 # then, pip install pillow
 
-from pathlib import Path
 from PIL import Image
 import numpy as np
 import csv
